@@ -1,10 +1,11 @@
-streamlit==1.31.0
+streamlit
 
-langchain-core==0.2.32
-langchain-community==0.2.12
-langchain-chroma==0.1.2
-langchain-groq==0.1.4
+langchain-core
+langchain-community
+langchain-chroma
+langchain-groq
 
-chromadb==0.4.24
-sentence-transformers==2.7.0
+chromadb
+sentence-transformers
 pysqlite3-binary
+
