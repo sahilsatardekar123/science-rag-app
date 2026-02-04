@@ -1,0 +1,3482 @@
+Title: Kinetic energy
+
+In physics, the kinetic energy of an object is the form of energy that it possesses due to its motion.
+In classical mechanics, the kinetic energy of a non-rotating object of mass m traveling at a speed v is 
+  
+    
+      
+        
+          
+            1
+            2
+          
+        
+        m
+        
+          v
+          
+            2
+          
+        
+      
+    
+    {\textstyle {\frac {1}{2}}mv^{2}}
+  
+. 
+The kinetic energy of an object is equal to the work, or force (F) in the direction of motion times its displacement (s), needed to accelerate the object from rest to its given speed. The same amount of work is done by the object when decelerating from its current speed to a state of rest.
+The SI unit of energy is the joule, while the English unit of energy is the foot-pound.
+In relativistic mechanics, 
+  
+    
+      
+        
+          
+            1
+            2
+          
+        
+        m
+        
+          v
+          
+            2
+          
+        
+      
+    
+    {\textstyle {\frac {1}{2}}mv^{2}}
+  
+ is a good approximation of kinetic energy only when v is much less than the speed of light.
+
+
+== History and etymology ==
+The adjective kinetic has its roots in the Greek word κίνησις kinesis, meaning "motion". The dichotomy between kinetic energy and potential energy can be traced back to Aristotle's concepts of actuality and potentiality. 
+The principle of classical mechanics that E ∝ mv2 is conserved was developed by Gottfried Leibniz and Johann Bernoulli, who described kinetic energy as the living force or vis viva. Willem 's Gravesande of the Netherlands provided experimental evidence of this relationship in 1722. By dropping weights from different heights into a block of clay, Gravesande determined that their penetration depth was proportional to the square of their impact speed. Émilie du Châtelet recognized the implications of the experiment and published an explanation.
+The terms kinetic energy and work in their present scientific meanings date back to the mid-19th century. Early understandings of these ideas can be attributed to Thomas Young, who in his 1802 lecture to the Royal Society,  was the first to use the term energy to refer to kinetic energy in its modern sense, instead of vis viva. Gaspard-Gustave Coriolis published in 1829 the paper titled Du Calcul de l'Effet des Machines outlining the mathematics of kinetic energy.  William Thomson, later Lord Kelvin, is given the credit for coining the term "kinetic energy" c. 1849–1851. William Rankine, who had introduced the term "potential energy" in 1853, and the phrase "actual energy" to complement it, later cites William Thomson and Peter Tait as substituting the word "kinetic" for "actual".
+
+
+== Overview ==
+Energy occurs in many forms, including chemical energy, thermal energy, electromagnetic radiation, gravitational energy, electric energy, elastic energy, nuclear energy, and rest energy. These can be categorized in two main classes: potential energy and kinetic energy. Kinetic energy is the movement energy of an object. Kinetic energy can be transferred between objects and transformed into other kinds of energy.
+Kinetic energy may be best understood by examples that demonstrate how it is transformed to and from other forms of energy. For example, a cyclist transfers chemical energy provided by food to the bicycle and cyclist's store of kinetic energy as they increase their speed. On a level surface, this speed can be maintained without further work, except to overcome air resistance and friction. The chemical energy has been converted into kinetic energy, the energy of motion, but the process is not completely efficient and produces thermal energy within the cyclist.
+The kinetic energy in the moving cyclist and the bicycle can be converted to other forms.  For example, the cyclist could encounter a hill just high enough to coast up, so that the bicycle comes to a complete halt at the top.  The kinetic energy has now largely been converted to gravitational potential energy that can be released by freewheeling down the other side of the hill.  Since the bicycle lost some of its energy to friction, it never regains all of its speed without additional pedaling. The energy is not destroyed; it has only been converted to another form by friction. Alternatively, the cyclist could connect a dynamo to one of the wheels and generate some electrical energy on the descent.  The bicycle would be traveling slower at the bottom of the hill than without the generator because some of the energy has been diverted into electrical energy.  Another possibility would be for the cyclist to apply the brakes, in which case the kinetic energy would be dissipated through friction as heat.
+Like any physical quantity that is a function of velocity, the kinetic energy of an object depends on the relationship between the object and the observer's frame of reference. Thus, the kinetic energy of an object is not invariant.
+Spacecraft use chemical energy to launch and gain considerable kinetic energy to reach orbital velocity.  In an entirely circular orbit, this kinetic energy remains constant because there is almost no friction in near-earth space. However, it becomes apparent at re-entry when some of the kinetic energy is converted to heat. If the orbit is elliptical or hyperbolic, then throughout the orbit kinetic and potential energy are exchanged; kinetic energy is greatest and potential energy lowest at closest approach to the earth or other massive body, while potential energy is greatest and kinetic energy the lowest at maximum distance. Disregarding loss or gain however, the sum of the kinetic and potential energy remains constant.
+Kinetic energy can be passed from one object to another. In the game of billiards, the player imposes kinetic energy on the cue ball by striking it with the cue stick. If the cue ball collides with another ball, it slows down dramatically, and the ball it hit accelerates as the kinetic energy is passed on to it. Collisions in billiards are effectively elastic collisions, in which kinetic energy is preserved. In inelastic collisions, kinetic energy is dissipated in various forms of energy, such as heat, sound and binding energy (breaking bound structures).
+Flywheels have been developed as a method of energy storage.  This illustrates that kinetic energy is also stored in rotational motion.
+Several mathematical descriptions of kinetic energy exist that describe it in the appropriate physical situation. For objects and processes in common human experience, the formula ⁠1/2⁠mv2 given by classical mechanics is suitable. However, if the speed of the object is comparable to the speed of light, relativistic effects become significant and the relativistic formula is used. If the object is on the atomic or sub-atomic scale, quantum mechanical effects are significant, and a quantum mechanical model must be employed.
+
+
+== Kinetic energy for non-relativistic velocity ==
+Treatments of kinetic energy depend upon the relative velocity of objects compared to the fixed speed of light. Speeds experienced directly by humans are non-relativisitic; higher speeds require the theory of relativity. 
+
+
+=== Kinetic energy of rigid bodies ===
+In classical mechanics, the kinetic energy of a point object (an object so small that its mass can be assumed to exist at one point), or a non-rotating rigid body depends on the mass of the body as well as its speed. The kinetic energy is equal to half the product of the mass and the square of the speed. In formula form:
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        m
+        
+          v
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{\text{k}}={\frac {1}{2}}mv^{2}}
+  
+
+where 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ is the mass and 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ is the speed (magnitude of the velocity) of the body. In SI units, mass is measured in kilograms, speed in metres per second, and the resulting kinetic energy is in joules.
+For example, one would calculate the kinetic energy of an 80 kg mass (about 180 lbs) traveling at 18 metres per second (about 40 mph, or 65 km/h) as
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        ⋅
+        80
+        
+        
+          kg
+        
+        ⋅
+        
+          
+            (
+            
+              18
+              
+              
+                m/s
+              
+            
+            )
+          
+          
+            2
+          
+        
+        =
+        12
+        ,
+        960
+        
+        
+          J
+        
+        =
+        12.96
+        
+        
+          kJ
+        
+      
+    
+    {\displaystyle E_{\text{k}}={\frac {1}{2}}\cdot 80\,{\text{kg}}\cdot \left(18\,{\text{m/s}}\right)^{2}=12,960\,{\text{J}}=12.96\,{\text{kJ}}}
+  
+
+When a person throws a ball, the person does work on it to give it speed as it leaves the hand. The moving ball can then hit something and push it, doing work on what it hits. The kinetic energy of a moving object is equal to the work required to bring it from rest to that speed, or the work the object can do while being brought to rest: net force × displacement = kinetic energy, i.e.,
+
+  
+    
+      
+        F
+        s
+        =
+        
+          
+            1
+            2
+          
+        
+        m
+        
+          v
+          
+            2
+          
+        
+      
+    
+    {\displaystyle Fs={\frac {1}{2}}mv^{2}}
+  
+
+Since the kinetic energy increases with the square of the speed, an object doubling its speed has four times as much kinetic energy. For example, a car traveling twice as fast as another requires four times as much distance to stop, assuming a constant braking force. As a consequence of this quadrupling, it takes four times the work to double the speed.
+The kinetic energy of an object is related to its momentum by the equation:
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        
+          
+            
+              p
+              
+                2
+              
+            
+            
+              2
+              m
+            
+          
+        
+      
+    
+    {\displaystyle E_{\text{k}}={\frac {p^{2}}{2m}}}
+  
+
+where:
+
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ is momentum
+
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ is mass of the body
+For the translational kinetic energy, that is the kinetic energy associated with rectilinear motion, of a rigid body with constant mass 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+, whose center of mass is moving in a straight line with speed 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+, as seen above is equal to
+
+  
+    
+      
+        
+          E
+          
+            t
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        m
+        
+          v
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{\text{t}}={\frac {1}{2}}mv^{2}}
+  
+
+where:
+
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ is the mass of the body
+
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ is the speed of the center of mass of the body.
+The kinetic energy of any entity depends on the reference frame in which it is measured. However, the total energy of an isolated system, i.e. one in which energy can neither enter nor leave, does not change over time in the reference frame in which it is measured. Thus, the chemical energy converted to kinetic energy by a rocket engine is divided differently between the rocket ship and its exhaust stream depending upon the chosen reference frame. This is called the Oberth effect. But the total energy of the system, including kinetic energy, fuel chemical energy, heat, etc., is conserved over time, regardless of the choice of reference frame. Different observers moving with different reference frames would however disagree on the value of this conserved energy.
+The kinetic energy of such systems depends on the choice of reference frame: the reference frame that gives the minimum value of that energy is the center of momentum frame, i.e. the reference frame in which the total momentum of the system is zero. This minimum kinetic energy contributes to the invariant mass of the system as a whole.
+
+
+==== Derivation ====
+
+
+===== Without vector calculus =====
+The work W done by a force F on an object over a distance s parallel to F equals 
+
+  
+    
+      
+        W
+        =
+        F
+        ⋅
+        s
+        .
+      
+    
+    {\displaystyle W=F\cdot s.}
+  
+
+Using Newton's second law 
+
+  
+    
+      
+        F
+        =
+        m
+        a
+      
+    
+    {\displaystyle F=ma}
+  
+ 
+with m the mass and a the acceleration of the object and 
+
+  
+    
+      
+        s
+        =
+        
+          
+            
+              a
+              
+                t
+                
+                  2
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle s={\frac {at^{2}}{2}}}
+  
+
+the distance traveled by the accelerated object in time t, we find with 
+  
+    
+      
+        v
+        =
+        a
+        t
+      
+    
+    {\displaystyle v=at}
+  
+ for the velocity v of the object
+
+  
+    
+      
+        W
+        =
+        m
+        a
+        
+          
+            
+              a
+              
+                t
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        =
+        
+          
+            
+              m
+              (
+              a
+              t
+              
+                )
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        =
+        
+          
+            
+              m
+              
+                v
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle W=ma{\frac {at^{2}}{2}}={\frac {m(at)^{2}}{2}}={\frac {mv^{2}}{2}}.}
+  
+
+
+===== With vector calculus =====
+The work done in accelerating a particle with mass m during the infinitesimal time interval dt is given by the dot product of force F and the infinitesimal displacement dx
+
+  
+    
+      
+        
+          F
+        
+        ⋅
+        d
+        
+          x
+        
+        =
+        
+          F
+        
+        ⋅
+        
+          v
+        
+        d
+        t
+        =
+        
+          
+            
+              d
+              
+                p
+              
+            
+            
+              d
+              t
+            
+          
+        
+        ⋅
+        
+          v
+        
+        d
+        t
+        =
+        
+          v
+        
+        ⋅
+        d
+        
+          p
+        
+        =
+        
+          v
+        
+        ⋅
+        d
+        (
+        m
+        
+          v
+        
+        )
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {F} \cdot d\mathbf {x} =\mathbf {F} \cdot \mathbf {v} dt={\frac {d\mathbf {p} }{dt}}\cdot \mathbf {v} dt=\mathbf {v} \cdot d\mathbf {p} =\mathbf {v} \cdot d(m\mathbf {v} )\,,}
+  
+
+where we have assumed the relationship p = m v and the validity of Newton's second law. (However, also see the special relativistic derivation below.)
+Applying the product rule we see that:
+
+  
+    
+      
+        d
+        (
+        
+          v
+        
+        ⋅
+        
+          v
+        
+        )
+        =
+        (
+        d
+        
+          v
+        
+        )
+        ⋅
+        
+          v
+        
+        +
+        
+          v
+        
+        ⋅
+        (
+        d
+        
+          v
+        
+        )
+        =
+        2
+        (
+        
+          v
+        
+        ⋅
+        d
+        
+          v
+        
+        )
+        .
+      
+    
+    {\displaystyle d(\mathbf {v} \cdot \mathbf {v} )=(d\mathbf {v} )\cdot \mathbf {v} +\mathbf {v} \cdot (d\mathbf {v} )=2(\mathbf {v} \cdot d\mathbf {v} ).}
+  
+
+Therefore (assuming constant mass so that dm = 0), we have
+
+  
+    
+      
+        
+          v
+        
+        ⋅
+        d
+        (
+        m
+        
+          v
+        
+        )
+        =
+        
+          
+            m
+            2
+          
+        
+        d
+        (
+        
+          v
+        
+        ⋅
+        
+          v
+        
+        )
+        =
+        
+          
+            m
+            2
+          
+        
+        d
+        
+          v
+          
+            2
+          
+        
+        =
+        d
+        
+          (
+          
+            
+              
+                m
+                
+                  v
+                  
+                    2
+                  
+                
+              
+              2
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle \mathbf {v} \cdot d(m\mathbf {v} )={\frac {m}{2}}d(\mathbf {v} \cdot \mathbf {v} )={\frac {m}{2}}dv^{2}=d\left({\frac {mv^{2}}{2}}\right).}
+  
+
+Since this is a total differential (that is, it only depends on the final state, not how the particle got there), we can integrate it and call the result kinetic energy:
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        
+          ∫
+          
+            
+              v
+              
+                1
+              
+            
+          
+          
+            
+              v
+              
+                2
+              
+            
+          
+        
+        
+          p
+        
+        ⋅
+        d
+        
+          v
+        
+        =
+        
+          ∫
+          
+            
+              v
+              
+                1
+              
+            
+          
+          
+            
+              v
+              
+                2
+              
+            
+          
+        
+        m
+        
+          v
+        
+        ⋅
+        d
+        
+          v
+        
+        =
+        
+          
+            
+              m
+              
+                v
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        
+          
+            
+              |
+            
+          
+          
+            
+              v
+              
+                1
+              
+            
+          
+          
+            
+              v
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        m
+        (
+        
+          v
+          
+            2
+          
+          
+            2
+          
+        
+        −
+        
+          v
+          
+            1
+          
+          
+            2
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle E_{\text{k}}=\int _{v_{1}}^{v_{2}}\mathbf {p} \cdot d\mathbf {v} =\int _{v_{1}}^{v_{2}}m\mathbf {v} \cdot d\mathbf {v} ={mv^{2} \over 2}{\bigg \vert }_{v_{1}}^{v_{2}}={1 \over 2}m(v_{2}^{2}-v_{1}^{2}).}
+  
+
+This equation states that the kinetic energy (Ek) is equal to the integral of the dot product of the momentum (p) of a body and the infinitesimal change of the velocity (v) of the body. It is assumed that the body starts with no kinetic energy when it is at rest (motionless).
+
+
+=== Rotating bodies ===
+If a rigid body Q is rotating about any line through the center of mass then it has rotational kinetic energy (
+  
+    
+      
+        
+          E
+          
+            r
+          
+        
+        
+      
+    
+    {\displaystyle E_{\text{r}}\,}
+  
+) which is simply the sum of the kinetic energies of its moving parts, and is thus given by:
+
+  
+    
+      
+        
+          E
+          
+            r
+          
+        
+        =
+        
+          ∫
+          
+            Q
+          
+        
+        
+          
+            
+              
+                v
+                
+                  2
+                
+              
+              d
+              m
+            
+            2
+          
+        
+        =
+        
+          ∫
+          
+            Q
+          
+        
+        
+          
+            
+              (
+              r
+              ω
+              
+                )
+                
+                  2
+                
+              
+              d
+              m
+            
+            2
+          
+        
+        =
+        
+          
+            
+              ω
+              
+                2
+              
+            
+            2
+          
+        
+        
+          ∫
+          
+            Q
+          
+        
+        
+          
+            r
+            
+              2
+            
+          
+        
+        d
+        m
+        =
+        
+          
+            
+              ω
+              
+                2
+              
+            
+            2
+          
+        
+        I
+        =
+        
+          
+            1
+            2
+          
+        
+        I
+        
+          ω
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{\text{r}}=\int _{Q}{\frac {v^{2}dm}{2}}=\int _{Q}{\frac {(r\omega )^{2}dm}{2}}={\frac {\omega ^{2}}{2}}\int _{Q}{r^{2}}dm={\frac {\omega ^{2}}{2}}I={\frac {1}{2}}I\omega ^{2}}
+  
+
+where:
+
+ω is the body's angular velocity
+r is the distance of any mass dm from that line
+
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+ is the body's moment of inertia, equal to 
+  
+    
+      
+        
+          ∫
+          
+            Q
+          
+        
+        
+          
+            r
+            
+              2
+            
+          
+        
+        d
+        m
+      
+    
+    {\textstyle \int _{Q}{r^{2}}dm}
+  
+.
+(In this equation the moment of inertia must be taken about an axis through the center of mass and the rotation measured by ω must be around that axis; more general equations exist for systems where the object is subject to wobble due to its eccentric shape).
+
+
+=== Kinetic energy of systems ===
+A system of bodies may have internal kinetic energy due to the relative motion of the bodies in the system. For example, in the Solar System the planets and planetoids are orbiting the Sun. In a tank of gas, the molecules are moving in all directions. The kinetic energy of the system is the sum of the kinetic energies of the bodies it contains.
+A macroscopic body that is stationary (i.e. a reference frame has been chosen to correspond to the body's center of momentum) may have various kinds of internal energy at the molecular or atomic level, which may be regarded as kinetic energy, due to molecular translation, rotation, and vibration, electron translation and spin, and nuclear spin. These all contribute to the body's mass, as provided by the special theory of relativity. When discussing movements of a macroscopic body, the kinetic energy referred to is usually that of the macroscopic movement only. However, all internal energies of all types contribute to a body's mass, inertia, and total energy.
+
+
+=== Fluid dynamics ===
+In fluid dynamics, the kinetic energy per unit volume at each point in an incompressible fluid flow field is called the dynamic pressure at that point.
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        m
+        
+          v
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{\text{k}}={\frac {1}{2}}mv^{2}}
+  
+
+Dividing by V, the unit of volume:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      E
+                      
+                        k
+                      
+                    
+                    V
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    1
+                    2
+                  
+                
+                
+                  
+                    m
+                    V
+                  
+                
+                
+                  v
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+                q
+              
+              
+                
+                =
+                
+                  
+                    1
+                    2
+                  
+                
+                ρ
+                
+                  v
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\frac {E_{\text{k}}}{V}}&={\frac {1}{2}}{\frac {m}{V}}v^{2}\\q&={\frac {1}{2}}\rho v^{2}\end{aligned}}}
+  
+
+where 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+  
+ is the dynamic pressure, and ρ is the density of the incompressible fluid.
+
+
+=== Frame of reference ===
+The speed, and thus the kinetic energy of a single object is frame-dependent (relative): it can take any non-negative value, by choosing a suitable inertial frame of reference. For example, a bullet passing an observer has kinetic energy in the reference frame of this observer. The same bullet is stationary to an observer moving with the same velocity as the bullet, and so has zero kinetic energy. By contrast, the total kinetic energy of a system of objects cannot be reduced to zero by a suitable choice of the inertial reference frame, unless all the objects have the same velocity. In any other case, the total kinetic energy has a non-zero minimum, as no inertial reference frame can be chosen in which all the objects are stationary. This minimum kinetic energy contributes to the system's invariant mass, which is independent of the reference frame.
+The total kinetic energy of a system depends on the inertial frame of reference: it is the sum of the total kinetic energy in a center of momentum frame and the kinetic energy the total mass would have if it were concentrated in the center of mass.
+This may be simply shown: let 
+  
+    
+      
+        
+          
+            V
+          
+        
+      
+    
+    {\displaystyle \textstyle \mathbf {V} }
+  
+ be the relative velocity of the center of mass frame i in the frame k. Since
+
+  
+    
+      
+        
+          v
+          
+            2
+          
+        
+        =
+        
+          
+            (
+            
+              
+                v
+                
+                  i
+                
+              
+              +
+              V
+            
+            )
+          
+          
+            2
+          
+        
+        =
+        
+          (
+          
+            
+              
+                v
+              
+              
+                i
+              
+            
+            +
+            
+              V
+            
+          
+          )
+        
+        ⋅
+        
+          (
+          
+            
+              
+                v
+              
+              
+                i
+              
+            
+            +
+            
+              V
+            
+          
+          )
+        
+        =
+        
+          
+            v
+          
+          
+            i
+          
+        
+        ⋅
+        
+          
+            v
+          
+          
+            i
+          
+        
+        +
+        2
+        
+          
+            v
+          
+          
+            i
+          
+        
+        ⋅
+        
+          V
+        
+        +
+        
+          V
+        
+        ⋅
+        
+          V
+        
+        =
+        
+          v
+          
+            i
+          
+          
+            2
+          
+        
+        +
+        2
+        
+          
+            v
+          
+          
+            i
+          
+        
+        ⋅
+        
+          V
+        
+        +
+        
+          V
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle v^{2}=\left(v_{i}+V\right)^{2}=\left(\mathbf {v} _{i}+\mathbf {V} \right)\cdot \left(\mathbf {v} _{i}+\mathbf {V} \right)=\mathbf {v} _{i}\cdot \mathbf {v} _{i}+2\mathbf {v} _{i}\cdot \mathbf {V} +\mathbf {V} \cdot \mathbf {V} =v_{i}^{2}+2\mathbf {v} _{i}\cdot \mathbf {V} +V^{2},}
+  
+
+Then,
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        ∫
+        
+          
+            
+              v
+              
+                2
+              
+            
+            2
+          
+        
+        d
+        m
+        =
+        ∫
+        
+          
+            
+              v
+              
+                i
+              
+              
+                2
+              
+            
+            2
+          
+        
+        d
+        m
+        +
+        
+          V
+        
+        ⋅
+        ∫
+        
+          
+            v
+          
+          
+            i
+          
+        
+        d
+        m
+        +
+        
+          
+            
+              V
+              
+                2
+              
+            
+            2
+          
+        
+        ∫
+        d
+        m
+        .
+      
+    
+    {\displaystyle E_{\text{k}}=\int {\frac {v^{2}}{2}}dm=\int {\frac {v_{i}^{2}}{2}}dm+\mathbf {V} \cdot \int \mathbf {v} _{i}dm+{\frac {V^{2}}{2}}\int dm.}
+  
+
+However, let 
+  
+    
+      
+        ∫
+        
+          
+            
+              v
+              
+                i
+              
+              
+                2
+              
+            
+            2
+          
+        
+        d
+        m
+        =
+        
+          E
+          
+            i
+          
+        
+      
+    
+    {\textstyle \int {\frac {v_{i}^{2}}{2}}dm=E_{i}}
+  
+ the kinetic energy in the center of mass frame, 
+  
+    
+      
+        ∫
+        
+          
+            v
+          
+          
+            i
+          
+        
+        d
+        m
+      
+    
+    {\textstyle \int \mathbf {v} _{i}dm}
+  
+ would be simply the total momentum that is by definition zero in the center of mass frame, and let the total mass: 
+  
+    
+      
+        ∫
+        d
+        m
+        =
+        M
+      
+    
+    {\textstyle \int dm=M}
+  
+. Substituting, we get:
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        
+          E
+          
+            i
+          
+        
+        +
+        
+          
+            
+              M
+              
+                V
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle E_{\text{k}}=E_{i}+{\frac {MV^{2}}{2}}.}
+  
+
+Thus the kinetic energy of a system is lowest to center of momentum reference frames, i.e., frames of reference in which the center of mass is stationary (either the center of mass frame or any other center of momentum frame). In any different frame of reference, there is additional kinetic energy corresponding to the total mass moving at the speed of the center of mass. The kinetic energy of the system in the center of momentum frame is a quantity that is invariant (all observers see it to be the same).
+
+
+=== Rotation in systems ===
+It sometimes is convenient to split the total kinetic energy of a body into the sum of the body's center-of-mass translational kinetic energy and the energy of rotation around the center of mass (rotational energy):
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        
+          E
+          
+            t
+          
+        
+        +
+        
+          E
+          
+            r
+          
+        
+      
+    
+    {\displaystyle E_{\text{k}}=E_{\text{t}}+E_{\text{r}}}
+  
+
+where:
+
+Ek is the total kinetic energy
+Et is the translational kinetic energy
+Er is the rotational energy or angular kinetic energy in the rest frame
+Thus the kinetic energy of a tennis ball in flight is the kinetic energy due to its rotation, plus the kinetic energy due to its translation.
+
+
+== Relativistic kinetic energy ==
+
+If a body's speed relative to an inertial frame is a significant fraction of the speed of light, it is necessary to use relativistic mechanics to calculate its kinetic energy relative to that frame.
+In relativistic mechanics, energy combines with momentum in a way analogous to the combination of time and space into spacetime. The energy component in the inertial frame can be expressed as: 
+
+  
+    
+      
+        E
+        =
+        γ
+        m
+        
+          c
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle E=\gamma mc^{2},}
+  
+
+where 
+  
+    
+      
+        γ
+        =
+        1
+        
+          /
+        
+        
+          
+            1
+            −
+            
+              v
+              
+                2
+              
+            
+            
+              /
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\textstyle \gamma =1/{\sqrt {1-v^{2}/c^{2}}}}
+  
+ and 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ is the object's (rest) mass, 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ speed, and c the speed of light in vacuum. If the body is at rest in the inertial frame, 
+  
+    
+      
+        v
+        =
+        0
+      
+    
+    {\displaystyle v=0}
+  
+ and 
+  
+    
+      
+        γ
+        =
+        1
+      
+    
+    {\displaystyle \gamma =1}
+  
+, so its rest energy is defined as 
+  
+    
+      
+        
+          E
+          
+            
+              rest
+            
+          
+        
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{\textrm {rest}}=mc^{2}}
+  
+. The kinetic energy can then be defined as the total energy minus the rest energy:
+
+  
+    
+      
+        (
+        
+          
+            kinetic
+          
+        
+         
+        
+          
+            energy
+          
+        
+        )
+        =
+        (
+        
+          
+            energy
+          
+        
+        )
+        −
+        (
+        
+          
+            rest
+          
+        
+         
+        
+          
+            energy
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle ({\textrm {kinetic}}\ {\textrm {energy}})=({\textrm {energy}})-({\textrm {rest}}\ {\textrm {energy}}).}
+  
+
+Another way to describe the kinetic energy is to start with the total energy given by the energy-momentum relation:
+
+  
+    
+      
+        
+          E
+          
+            2
+          
+        
+        =
+        (
+        p
+        
+          
+            c
+          
+        
+        
+          )
+          
+            2
+          
+        
+        +
+        
+          
+            (
+            
+              m
+              
+                
+                  
+                    c
+                  
+                
+                
+                  2
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        
+      
+    
+    {\displaystyle E^{2}=(p{\textrm {c}})^{2}+\left(m{\textrm {c}}^{2}\right)^{2}\,}
+  
+
+Here 
+  
+    
+      
+        p
+        =
+        m
+        γ
+        v
+      
+    
+    {\displaystyle p=m\gamma v}
+  
+ is the relativistic expression for linear momentum, where 
+  
+    
+      
+        γ
+        =
+        1
+        
+          /
+        
+        
+          
+            1
+            −
+            
+              v
+              
+                2
+              
+            
+            
+              /
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\textstyle \gamma =1/{\sqrt {1-v^{2}/c^{2}}}}
+  
+ and 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ is the object's (rest) mass, 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ speed, and c the speed of light in vacuum.
+Then kinetic energy is the  total relativistic energy minus the rest energy:
+
+  
+    
+      
+        
+          E
+          
+            K
+          
+        
+        =
+        E
+        −
+        m
+        
+          c
+          
+            2
+          
+        
+        =
+        
+          
+            (
+            p
+            
+              
+                c
+              
+            
+            
+              )
+              
+                2
+              
+            
+            +
+            
+              
+                (
+                
+                  m
+                  
+                    
+                      
+                        c
+                      
+                    
+                    
+                      2
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+          
+        
+        −
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{K}=E-mc^{2}={\sqrt {(p{\textrm {c}})^{2}+\left(m{\textrm {c}}^{2}\right)^{2}}}-mc^{2}}
+  
+
+At low speeds, the square root can be expanded and the rest energy drops out, giving the Newtonian kinetic energy. 
+
+
+=== Low speed limit ===
+The mathematical by-product of this calculation is the mass–energy equivalence formula, that mass and energy are essentially the same thing:
+
+  
+    
+      
+        
+          E
+          
+            rest
+          
+        
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{\text{rest}}=mc^{2}}
+  
+
+At a low speed (v ≪ c), the relativistic kinetic energy is approximated well by the classical kinetic energy. To see this, apply the binomial approximation or take the first two terms of the Taylor expansion in powers of 
+  
+    
+      
+        
+          v
+          
+            2
+          
+        
+      
+    
+    {\displaystyle v^{2}}
+  
+ for the reciprocal square root:
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        ≈
+        m
+        
+          c
+          
+            2
+          
+        
+        
+          (
+          
+            1
+            +
+            
+              
+                1
+                2
+              
+            
+            
+              
+                
+                  v
+                  
+                    2
+                  
+                
+                
+                  c
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        −
+        m
+        
+          c
+          
+            2
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        m
+        
+          v
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{\text{k}}\approx mc^{2}\left(1+{\frac {1}{2}}{\frac {v^{2}}{c^{2}}}\right)-mc^{2}={\frac {1}{2}}mv^{2}}
+  
+
+So, the total energy 
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+      
+    
+    {\displaystyle E_{k}}
+  
+ can be partitioned into the rest mass energy plus the non-relativistic kinetic energy at low speeds.
+When objects move at a speed much slower than light (e.g. in everyday phenomena on Earth), the first two terms of the series predominate. The next term in the Taylor series approximation
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        ≈
+        m
+        
+          c
+          
+            2
+          
+        
+        
+          (
+          
+            1
+            +
+            
+              
+                1
+                2
+              
+            
+            
+              
+                
+                  v
+                  
+                    2
+                  
+                
+                
+                  c
+                  
+                    2
+                  
+                
+              
+            
+            +
+            
+              
+                3
+                8
+              
+            
+            
+              
+                
+                  v
+                  
+                    4
+                  
+                
+                
+                  c
+                  
+                    4
+                  
+                
+              
+            
+          
+          )
+        
+        −
+        m
+        
+          c
+          
+            2
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        m
+        
+          v
+          
+            2
+          
+        
+        +
+        
+          
+            3
+            8
+          
+        
+        m
+        
+          
+            
+              v
+              
+                4
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle E_{\text{k}}\approx mc^{2}\left(1+{\frac {1}{2}}{\frac {v^{2}}{c^{2}}}+{\frac {3}{8}}{\frac {v^{4}}{c^{4}}}\right)-mc^{2}={\frac {1}{2}}mv^{2}+{\frac {3}{8}}m{\frac {v^{4}}{c^{2}}}}
+  
+
+is small for low speeds. For example, for a speed of 10 km/s (22,000 mph) the correction to the non-relativistic kinetic energy is 0.0417 J/kg (on a non-relativistic kinetic energy of 50 MJ/kg) and for a speed of 100 km/s it is 417 J/kg (on a non-relativistic kinetic energy of 5 GJ/kg).
+The relativistic relation between kinetic energy and momentum is given by
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        
+          
+            
+              p
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+            +
+            
+              m
+              
+                2
+              
+            
+            
+              c
+              
+                4
+              
+            
+          
+        
+        −
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{\text{k}}={\sqrt {p^{2}c^{2}+m^{2}c^{4}}}-mc^{2}}
+  
+
+This can also be expanded as a Taylor series, the first term of which is the simple expression from Newtonian mechanics:
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        ≈
+        
+          
+            
+              p
+              
+                2
+              
+            
+            
+              2
+              m
+            
+          
+        
+        −
+        
+          
+            
+              p
+              
+                4
+              
+            
+            
+              8
+              
+                m
+                
+                  3
+                
+              
+              
+                c
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle E_{\text{k}}\approx {\frac {p^{2}}{2m}}-{\frac {p^{4}}{8m^{3}c^{2}}}.}
+  
+
+This suggests that the formulae for energy and momentum are not special and axiomatic, but concepts emerging from the equivalence of mass and energy and the principles of relativity.
+
+
+=== General relativity ===
+
+Using the convention that
+
+  
+    
+      
+        
+          g
+          
+            α
+            β
+          
+        
+        
+        
+          u
+          
+            α
+          
+        
+        
+        
+          u
+          
+            β
+          
+        
+        
+        =
+        
+        −
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle g_{\alpha \beta }\,u^{\alpha }\,u^{\beta }\,=\,-c^{2}}
+  
+
+where the four-velocity of a particle is
+
+  
+    
+      
+        
+          u
+          
+            α
+          
+        
+        
+        =
+        
+        
+          
+            
+              d
+              
+                x
+                
+                  α
+                
+              
+            
+            
+              d
+              τ
+            
+          
+        
+      
+    
+    {\displaystyle u^{\alpha }\,=\,{\frac {dx^{\alpha }}{d\tau }}}
+  
+
+and 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+  
+ is the proper time of the particle, there is also an expression for the kinetic energy of the particle in general relativity.
+If the particle has momentum
+
+  
+    
+      
+        
+          p
+          
+            β
+          
+        
+        
+        =
+        
+        m
+        
+        
+          g
+          
+            β
+            α
+          
+        
+        
+        
+          u
+          
+            α
+          
+        
+      
+    
+    {\displaystyle p_{\beta }\,=\,m\,g_{\beta \alpha }\,u^{\alpha }}
+  
+
+as it passes by an observer with four-velocity uobs, then the expression for total energy of the particle as observed (measured in a local inertial frame) is
+
+  
+    
+      
+        E
+        
+        =
+        
+        −
+        
+        
+          p
+          
+            β
+          
+        
+        
+        
+          u
+          
+            obs
+          
+          
+            β
+          
+        
+      
+    
+    {\displaystyle E\,=\,-\,p_{\beta }\,u_{\text{obs}}^{\beta }}
+  
+
+and the kinetic energy can be expressed as the total energy minus the rest energy:
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        
+        =
+        
+        −
+        
+        
+          p
+          
+            β
+          
+        
+        
+        
+          u
+          
+            obs
+          
+          
+            β
+          
+        
+        
+        −
+        
+        m
+        
+        
+          c
+          
+            2
+          
+        
+        
+        .
+      
+    
+    {\displaystyle E_{k}\,=\,-\,p_{\beta }\,u_{\text{obs}}^{\beta }\,-\,m\,c^{2}\,.}
+  
+
+Consider the case of a metric that is diagonal and spatially isotropic (gtt, gss, gss, gss). Since
+
+  
+    
+      
+        
+          u
+          
+            α
+          
+        
+        =
+        
+          
+            
+              d
+              
+                x
+                
+                  α
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        
+          
+            
+              d
+              t
+            
+            
+              d
+              τ
+            
+          
+        
+        =
+        
+          v
+          
+            α
+          
+        
+        
+          u
+          
+            t
+          
+        
+      
+    
+    {\displaystyle u^{\alpha }={\frac {dx^{\alpha }}{dt}}{\frac {dt}{d\tau }}=v^{\alpha }u^{t}}
+  
+
+where vα is the ordinary velocity measured w.r.t. the coordinate system, we get
+
+  
+    
+      
+        −
+        
+          c
+          
+            2
+          
+        
+        =
+        
+          g
+          
+            α
+            β
+          
+        
+        
+          u
+          
+            α
+          
+        
+        
+          u
+          
+            β
+          
+        
+        =
+        
+          g
+          
+            t
+            t
+          
+        
+        
+          
+            (
+            
+              u
+              
+                t
+              
+            
+            )
+          
+          
+            2
+          
+        
+        +
+        
+          g
+          
+            s
+            s
+          
+        
+        
+          v
+          
+            2
+          
+        
+        
+          
+            (
+            
+              u
+              
+                t
+              
+            
+            )
+          
+          
+            2
+          
+        
+        
+        .
+      
+    
+    {\displaystyle -c^{2}=g_{\alpha \beta }u^{\alpha }u^{\beta }=g_{tt}\left(u^{t}\right)^{2}+g_{ss}v^{2}\left(u^{t}\right)^{2}\,.}
+  
+
+Solving for ut gives
+
+  
+    
+      
+        
+          u
+          
+            t
+          
+        
+        =
+        c
+        
+          
+            
+              
+                −
+                1
+              
+              
+                
+                  g
+                  
+                    t
+                    t
+                  
+                
+                +
+                
+                  g
+                  
+                    s
+                    s
+                  
+                
+                
+                  v
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle u^{t}=c{\sqrt {\frac {-1}{g_{tt}+g_{ss}v^{2}}}}\,.}
+  
+
+Thus for a stationary observer (v = 0)
+
+  
+    
+      
+        
+          u
+          
+            obs
+          
+          
+            t
+          
+        
+        =
+        c
+        
+          
+            
+              
+                −
+                1
+              
+              
+                g
+                
+                  t
+                  t
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle u_{\text{obs}}^{t}=c{\sqrt {\frac {-1}{g_{tt}}}}}
+  
+
+and thus the kinetic energy takes the form
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        −
+        m
+        
+          g
+          
+            t
+            t
+          
+        
+        
+          u
+          
+            t
+          
+        
+        
+          u
+          
+            obs
+          
+          
+            t
+          
+        
+        −
+        m
+        
+          c
+          
+            2
+          
+        
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+        
+          
+            
+              
+                g
+                
+                  t
+                  t
+                
+              
+              
+                
+                  g
+                  
+                    t
+                    t
+                  
+                
+                +
+                
+                  g
+                  
+                    s
+                    s
+                  
+                
+                
+                  v
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        −
+        m
+        
+          c
+          
+            2
+          
+        
+        
+        .
+      
+    
+    {\displaystyle E_{\text{k}}=-mg_{tt}u^{t}u_{\text{obs}}^{t}-mc^{2}=mc^{2}{\sqrt {\frac {g_{tt}}{g_{tt}+g_{ss}v^{2}}}}-mc^{2}\,.}
+  
+
+Factoring out the rest energy gives:
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+        
+          (
+          
+            
+              
+                
+                  
+                    g
+                    
+                      t
+                      t
+                    
+                  
+                  
+                    
+                      g
+                      
+                        t
+                        t
+                      
+                    
+                    +
+                    
+                      g
+                      
+                        s
+                        s
+                      
+                    
+                    
+                      v
+                      
+                        2
+                      
+                    
+                  
+                
+              
+            
+            −
+            1
+          
+          )
+        
+        
+        .
+      
+    
+    {\displaystyle E_{\text{k}}=mc^{2}\left({\sqrt {\frac {g_{tt}}{g_{tt}+g_{ss}v^{2}}}}-1\right)\,.}
+  
+
+This expression reduces to the special relativistic case for the flat-space metric where
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  g
+                  
+                    t
+                    t
+                  
+                
+              
+              
+                
+                =
+                −
+                
+                  c
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+                
+                  g
+                  
+                    s
+                    s
+                  
+                
+              
+              
+                
+                =
+                1
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}g_{tt}&=-c^{2}\\g_{ss}&=1\,.\end{aligned}}}
+  
+
+In the Newtonian approximation to general relativity
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  g
+                  
+                    t
+                    t
+                  
+                
+              
+              
+                
+                =
+                −
+                
+                  (
+                  
+                    
+                      c
+                      
+                        2
+                      
+                    
+                    +
+                    2
+                    Φ
+                  
+                  )
+                
+              
+            
+            
+              
+                
+                  g
+                  
+                    s
+                    s
+                  
+                
+              
+              
+                
+                =
+                1
+                −
+                
+                  
+                    
+                      2
+                      Φ
+                    
+                    
+                      c
+                      
+                        2
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}g_{tt}&=-\left(c^{2}+2\Phi \right)\\g_{ss}&=1-{\frac {2\Phi }{c^{2}}}\end{aligned}}}
+  
+
+where Φ is the Newtonian gravitational potential. This means clocks run slower and measuring rods are shorter near massive bodies.
+
+
+== Kinetic energy in quantum mechanics ==
+
+In quantum mechanics, observables like kinetic energy are represented as operators. For one particle of mass m, the kinetic energy operator appears as a term in the Hamiltonian and is defined in terms of the more fundamental momentum operator 
+  
+    
+      
+        
+          
+            
+              p
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {p}}}
+  
+. The kinetic energy operator in the non-relativistic case can be written as
+
+  
+    
+      
+        
+          
+            
+              T
+              ^
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  
+                    p
+                    ^
+                  
+                
+              
+              
+                2
+              
+            
+            
+              2
+              m
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\hat {T}}={\frac {{\hat {p}}^{2}}{2m}}.}
+  
+
+Notice that this can be obtained by replacing 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ by 
+  
+    
+      
+        
+          
+            
+              p
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {p}}}
+  
+ in the classical expression for kinetic energy in terms of momentum,
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        
+          
+            
+              p
+              
+                2
+              
+            
+            
+              2
+              m
+            
+          
+        
+        .
+      
+    
+    {\displaystyle E_{\text{k}}={\frac {p^{2}}{2m}}.}
+  
+
+In the Schrödinger picture, 
+  
+    
+      
+        
+          
+            
+              p
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {p}}}
+  
+ takes the form 
+  
+    
+      
+        −
+        i
+        ℏ
+        ∇
+      
+    
+    {\displaystyle -i\hbar \nabla }
+  
+ where the derivative is taken with respect to position coordinates and hence
+
+  
+    
+      
+        
+          
+            
+              T
+              ^
+            
+          
+        
+        =
+        −
+        
+          
+            
+              ℏ
+              
+                2
+              
+            
+            
+              2
+              m
+            
+          
+        
+        
+          ∇
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle {\hat {T}}=-{\frac {\hbar ^{2}}{2m}}\nabla ^{2}.}
+  
+
+The expectation value of the electron kinetic energy, 
+  
+    
+      
+        
+          ⟨
+          
+            
+              
+                T
+                ^
+              
+            
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left\langle {\hat {T}}\right\rangle }
+  
+, for a system of N electrons described by the wavefunction 
+  
+    
+      
+        |
+        ψ
+        ⟩
+      
+    
+    {\displaystyle \vert \psi \rangle }
+  
+ is a sum of 1-electron operator expectation values:
+
+  
+    
+      
+        
+          ⟨
+          
+            
+              
+                T
+                ^
+              
+            
+          
+          ⟩
+        
+        =
+        
+          ⟨
+          
+            ψ
+            
+              |
+              
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    N
+                  
+                
+                
+                  
+                    
+                      −
+                      
+                        ℏ
+                        
+                          2
+                        
+                      
+                    
+                    
+                      2
+                      
+                        m
+                        
+                          e
+                        
+                      
+                    
+                  
+                
+                
+                  ∇
+                  
+                    i
+                  
+                  
+                    2
+                  
+                
+              
+              |
+            
+            ψ
+          
+          ⟩
+        
+        =
+        −
+        
+          
+            
+              ℏ
+              
+                2
+              
+            
+            
+              2
+              
+                m
+                
+                  e
+                
+              
+            
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          ⟨
+          
+            ψ
+            
+              |
+              
+                ∇
+                
+                  i
+                
+                
+                  2
+                
+              
+              |
+            
+            ψ
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left\langle {\hat {T}}\right\rangle =\left\langle \psi \left\vert \sum _{i=1}^{N}{\frac {-\hbar ^{2}}{2m_{\text{e}}}}\nabla _{i}^{2}\right\vert \psi \right\rangle =-{\frac {\hbar ^{2}}{2m_{\text{e}}}}\sum _{i=1}^{N}\left\langle \psi \left\vert \nabla _{i}^{2}\right\vert \psi \right\rangle }
+  
+
+where 
+  
+    
+      
+        
+          m
+          
+            e
+          
+        
+      
+    
+    {\displaystyle m_{\text{e}}}
+  
+ is the mass of the electron and 
+  
+    
+      
+        
+          ∇
+          
+            i
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \nabla _{i}^{2}}
+  
+ is the Laplacian operator acting upon the coordinates of the ith electron and the summation runs over all electrons.
+The density functional formalism of quantum mechanics requires knowledge of the electron density only, i.e., it formally does not require knowledge of the wavefunction.  Given an electron density 
+  
+    
+      
+        ρ
+        (
+        
+          r
+        
+        )
+      
+    
+    {\displaystyle \rho (\mathbf {r} )}
+  
+, the exact N-electron kinetic energy functional is unknown; however, for the specific case of a 1-electron system, the kinetic energy can be written as
+
+  
+    
+      
+        T
+        [
+        ρ
+        ]
+        =
+        
+          
+            1
+            8
+          
+        
+        ∫
+        
+          
+            
+              ∇
+              ρ
+              (
+              
+                r
+              
+              )
+              ⋅
+              ∇
+              ρ
+              (
+              
+                r
+              
+              )
+            
+            
+              ρ
+              (
+              
+                r
+              
+              )
+            
+          
+        
+        
+          d
+          
+            3
+          
+        
+        r
+      
+    
+    {\displaystyle T[\rho ]={\frac {1}{8}}\int {\frac {\nabla \rho (\mathbf {r} )\cdot \nabla \rho (\mathbf {r} )}{\rho (\mathbf {r} )}}d^{3}r}
+  
+
+where 
+  
+    
+      
+        T
+        [
+        ρ
+        ]
+      
+    
+    {\displaystyle T[\rho ]}
+  
+ is known as the von Weizsäcker kinetic energy functional.
+
+
+== See also ==
+
+Escape velocity
+Foot-pound
+Joule
+Kinetic energy penetrator
+Kinetic energy per unit mass of projectiles
+Kinetic projectile
+Parallel axis theorem
+Potential energy
+Recoil
+
+
+== Notes ==
+
+
+== References ==
+Physics Classroom (2000). "Kinetic Energy". Retrieved 2015-07-19.
+School of Mathematics and Statistics, University of St Andrews (2000). "Biography of Gaspard-Gustave de Coriolis (1792–1843)". Retrieved 2006-03-03.
+Serway, Raymond A.; Jewett, John W. (2004). Physics for Scientists and Engineers (6th ed.). Brooks/Cole. ISBN 0-534-40842-7.
+Tipler, Paul (2004). Physics for Scientists and Engineers: Mechanics, Oscillations and Waves, Thermodynamics (5th ed.). W. H. Freeman. ISBN 0-7167-0809-4.
+Tipler, Paul; Llewellyn, Ralph (2002). Modern Physics (4th ed.). W. H. Freeman. ISBN 0-7167-4345-0.
+
+
+== External links ==
+ Media related to Kinetic energy at Wikimedia Commons

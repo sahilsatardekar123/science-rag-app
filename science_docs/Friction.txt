@@ -1,0 +1,111 @@
+Title: Friction
+
+Fiction is any creative work, chiefly any narrative work, portraying individuals, events, or places that are imaginary or in ways that are imaginary. Fictional portrayals are thus inconsistent with fact, history, or plausibility. In a traditional narrow sense, fiction refers to written narratives in prose – often specifically novels, novellas, and short stories. More broadly, however, fiction encompasses imaginary narratives expressed in any medium, including not just writings but also live theatrical performances, films, television programs, radio dramas, comics, role-playing games, and video games.
+
+
+== Definition and theory ==
+
+Typically, the fictionality of a work is publicly expressed, so the audience expects a work of fiction to deviate to a greater or lesser degree from the real world, rather than presenting for instance only factually accurate portrayals or characters who are actual people. Because fiction is generally understood as not adhering to the real world, the themes and context of a fictional work, such as if and how it relates to real-world issues or events, are open to interpretation. Since fiction is most long-established in the realm of literature (written narrative fiction), the broad study of the nature, function, and meaning of fiction is called literary theory, and the narrower interpretation of specific fictional texts is called literary criticism (with subsets like film criticism and theatre criticism also now long-established). Aside from real-world connections, some fictional works may depict characters and events within their own context, entirely separate from the known physical universe: an independent fictional universe. The creative art of constructing such an imaginary world is known as worldbuilding.
+Literary critic James Wood argues that "fiction is both artifice and verisimilitude", meaning that it requires both creative inventions as well as some acceptable degree of believability to its audience, a notion often encapsulated in the poet Samuel Taylor Coleridge's idea of the audience's willing suspension of disbelief. The effects of experiencing fiction, and the way the audience is changed by the new information they discover, has been studied for centuries. Infinite fictional possibilities themselves signal the impossibility of fully knowing reality, provocatively demonstrating philosophical notions, such as there potentially being no criterion to measure constructs of reality.
+
+
+== Fiction and reality ==
+
+
+=== Fiction versus non-fiction ===
+In contrast to fiction, creators of non-fiction assume responsibility for presenting information and sometimes opinion based only in historical and factual reality. Despite the traditional view that fiction and non-fiction are opposites, some works (particularly in the modern era) blur this boundary, particularly works that fall under certain experimental storytelling genres—including some postmodern fiction, autofiction, or creative nonfiction like non-fiction novels and docudramas—as well as the deliberate literary fraud of falsely marketing fiction as nonfiction. 
+Furthermore, even most works of fiction usually have elements of, or grounding in, truth of some kind, or truth from a certain point of view. The distinction between the two may be best defined from the viewpoint of the audience, according to whom a work is non-fiction if its people, settings, and plot are perceived entirely as historically or factually real, while a work is regarded as fiction if it deviates from reality in any of those areas.
+All types of fiction invite their audience to explore real ideas, issues, or possibilities using an otherwise imaginary setting or using something similar to reality, though still distinct from it.
+
+
+=== Speculative versus realistic fiction ===
+The umbrella genre of speculative fiction is characterized by a lesser degree of adherence to realistic or plausible individuals, events, or places, while the umbrella genre of realistic fiction is characterized by a greater degree. For instance, speculative fiction may depict an entirely imaginary universe or one in which the laws of nature do not strictly apply (often, the sub-genre of fantasy). Or, it depicts true historical moments, except that they have concluded in a completely imaginary way or been followed by major new events that are completely imaginary (the genre of alternative history). Or, it depicts impossible technology or technology that defies current scientific understandings or capabilities (the genre of science fiction).
+Contrarily, realistic fiction involves a story whose basic setting (time and location in the world) is, in fact, real and whose events could believably happen in the context of the real world. One realistic fiction sub-genre is historical fiction, centered around true major events and time periods in the past. The attempt to make stories feel faithful to reality or to more objectively describe details, and the 19th-century artistic movement that began to vigorously promote this approach, is called literary realism, which incorporates some works of both fiction and non-fiction.
+
+
+== History ==
+
+Storytelling has existed in all human cultures, and each culture incorporates different elements of truth and fiction into storytelling. Early fiction was closely associated with history and myth. Greek poets such as Homer, Hesiod, and Aesop developed fictional stories that were told first through oral storytelling and then in writing. Prose fiction was developed in Ancient Greece, influenced by the storytelling traditions of Asia and Egypt. Distinctly fictional work was not recognized as separate from historical or mythological stories until the imperial period. Plasmatic narrative, following entirely invented characters and events, was developed through ancient drama and New Comedy. One common structure among early fiction is a series of strange and fantastic adventures as early writers test the limits of fiction writing. Milesian tales were an early example of fiction writing in Ancient Greece and Italy. As fiction writing developed in Ancient Greece, relatable characters and plausible scenarios were emphasized to better connect with the audience, including elements such as romance, piracy, and religious ceremonies. Heroic romance was developed in medieval Europe, incorporating elements associated with fantasy, including supernatural elements and chivalry.
+The structure of the modern novel was developed by Miguel de Cervantes with Don Quixote in the early-17th century. The novel became a primary medium of fiction in the 18th and 19th centuries. They were often associated with Enlightenment ideas such as empiricism and agnosticism. Realism developed as a literary style at this time. New forms of mass media developed in the late-19th and early-20th centuries, including popular-fiction magazines and early film. Interactive fiction was developed in the late-20th century through video games.
+
+
+== Elements ==
+
+Certain basic elements define all works of narrative, including all works of narrative fiction. Namely, all narratives include the elements of character, conflict, narrative mode, plot, setting, and theme. Characters are individuals inside a work of story, conflicts are the tension or problem that drives characters' thoughts and actions, narrative modes are the ways in which a story is communicated, plots are the sequence of events in a story, settings are the story's locations in time and space, and themes are deeper messages or interpretations about the story that its audience is left to discuss and reflect upon.
+
+
+== Formats ==
+
+Traditionally, fiction includes novels, short stories, fables, legends, myths, fairy tales, epic and narrative poetry, plays (including operas, musicals, dramas, puppet plays, and various kinds of theatrical dances). However, fiction may also encompass comic books, and many animated cartoons, stop motions, anime, manga, films, video games, radio programs, television programs (comedies and dramas), etc.
+The Internet has had a major impact on the creation and distribution of fiction, calling into question the feasibility of copyright as a means to ensure royalties are paid to copyright holders. Also, digital libraries such as Project Gutenberg make public domain texts more readily available. The combination of inexpensive home computers, the Internet, and the creativity of its users has also led to new forms of fiction, such as interactive computer games or computer-generated comics. Countless forums for fan fiction can be found online, where loyal followers of specific fictional realms create and distribute derivative stories. The Internet is also used for the development of blog fiction, where a story is delivered through a blog either as flash fiction or serial blog, and collaborative fiction, where a story is written sequentially by different authors, or the entire text can be revised by anyone using a wiki.
+
+
+== Fiction writing ==
+
+
+=== Literary fiction ===
+
+The definition of literary fiction is controversial. It may refer to any work of fiction in a written form. However, various other definitions exist, including a written work of fiction that:
+
+does not fit neatly into an established genre (as opposed to so-called genre fiction), when used as a marketing label in the book trade
+is character-driven rather than plot-driven
+examines the human condition
+uses language in an experimental or poetic fashion
+is considered serious as a work of art
+Literary fiction is often used as a synonym for literature, in the narrow sense of writings specifically considered to be an art form. While literary fiction is sometimes regarded as superior to genre fiction, the two are not mutually exclusive, and major literary figures have employed the genres of science fiction, crime fiction, romance, etc., to create works of literature. Furthermore, the study of genre fiction has developed within academia in recent decades.
+The term is sometimes used such as to equate literary fiction to literature. The accuracy of this is debated. Neal Stephenson has suggested that, while any definition will be simplistic, there is today a general cultural difference between literary and genre fiction. On the one hand literary authors nowadays are frequently supported by patronage, with employment at a university or a similar institution, and with the continuation of such positions determined not by book sales but by critical acclaim by other established literary authors and critics. On the other hand, he suggests, genre fiction writers tend to support themselves by book sales. However, in an interview, John Updike lamented that "the category of 'literary fiction' has sprung up recently to torment people like me who just set out to write books, and if anybody wanted to read them, terrific, the more the merrier. ... I'm a genre writer of a sort. I write literary fiction, which is like spy fiction or chick lit". Likewise, on The Charlie Rose Show, he argued that this term, when applied to his work, greatly limited him and his expectations of what might come of his writing, so he does not really like it. He suggested that all his works are literary, simply because "they are written in words".
+Literary fiction often involves social commentary, political criticism, or reflection on the human condition. In general, it focuses on "introspective, in-depth character studies" of "interesting, complex and developed" characters. This contrasts with genre fiction where plot is the central concern. Usually in literary fiction the focus is on the "inner story" of the characters who drive the plot, with detailed motivations to elicit "emotional involvement" in the reader. The style of literary fiction is often described as "elegantly written, lyrical, and ... layered". The tone of literary fiction can be darker than genre fiction, while the pacing of literary fiction may be slower than popular fiction. As Terrence Rafferty notes, "literary fiction, by its nature, allows itself to dawdle, to linger on stray beauties even at the risk of losing its way".
+
+
+=== Genre fiction ===
+
+Based on how literary fiction is defined, genre fiction may be a subset (written fiction that aligns to a particular genre), or its opposite: an evaluative label for written fiction that comprises popular culture, as artistically or intellectually inferior to high culture. Regardless, fiction is commonly broken down into a variety of genres: categories of fiction, each differentiated by a particular unifying tone or style; set of narrative techniques, archetypes, or other tropes; media content; or other popularly defined criterion.
+Science fiction predicts or supposes technologies that are not realities at the time of the work's creation: Jules Verne's novel From the Earth to the Moon was published in 1865, but only in 1969 did astronauts Neil Armstrong and Buzz Aldrin become the first humans to land on the Moon.
+Historical fiction places imaginary characters into real historical events. In the 1814 historical novel Waverley, Sir Walter Scott's fictional character Edward Waverley meets a figure from history, Bonnie Prince Charlie, and takes part in the Battle of Prestonpans. Some works of fiction are slightly or greatly re-imagined based on some originally true story, or a reconstructed biography. Often, even when the fictional story is based on fact, there may be additions and subtractions from the true story to make it more interesting. An example is Tim O'Brien's The Things They Carried, a 1990 series of short stories about the Vietnam War.
+
+Fictional works that explicitly involve supernatural, magical, or scientifically impossible elements are often classified under the genre of fantasy, including Lewis Carroll's 1865 novel Alice's Adventures in Wonderland, J. R. R. Tolkien's The Lord of the Rings, and J. K. Rowling's Harry Potter series. Creators of fantasy sometimes introduce imaginary creatures and beings such as dragons and fairies.
+
+
+=== Types by word count ===
+Types of written fiction in prose are distinguished by relative length and include:
+
+Short story: the boundary between a long short story and a novella is vague, although a short story commonly comprises fewer than 7,500 words
+Novella: typically, 17,500 to 40,000 words in length; examples include Robert Louis Stevenson's Strange Case of Dr Jekyll and Mr Hyde (1886) or Joseph Conrad's Heart of Darkness (1899)
+Novel: 40,000 words or more in length
+
+
+=== Process of fiction writing ===
+
+Fiction writing is the process by which an author or creator produces a fictional work. Some elements of the writing process may be planned in advance, while others may come about spontaneously. Fiction writers use different writing styles and have distinct writers' voices when writing fictional stories.
+
+
+== Fictionalization as a concept ==
+
+The use of real events or real individuals as direct inspiration for imaginary events or imaginary individuals is known as fictionalization. The opposite circumstance, in which the physical world or a real turn of events seem influenced by past fiction, is commonly described by the phrase "life imitating art". The latter phrase is popularity associated with the Anglo-Irish fiction writer Oscar Wilde.
+The alteration of actual happenings into a fictional format, with this involving a dramatic representation of real events or people, is known as both fictionalization, or, more narrowly for visual performance works like in theatre and film, dramatization. According to the academic publication Oxford Reference, a work set up this way will have a "narrative based partly or wholly on fact but written as if it were fiction" such that "[f]ilms and broadcast dramas of this kind often bear the label 'based on a true story'." In intellectual research, evaluating this process is a part of media studies.
+Examples of prominent fictionalization in the creative arts include those in the general context of World War II in popular culture and specifically Nazi German leaders such as Adolf Hitler in popular culture and Reinhard Heydrich in popular culture. For instance, American actor and comedian Charlie Chaplin portrayed the eccentric despot Adenoid Hynkel in the 1940 satirical film The Great Dictator. The unhinged, unintelligent figure fictionalized real events from the then ongoing Second World War, in a way that presented fascist individuals as humorously irrational and pathetic. Many other villains take inspiration from real people while having fictional accents, appearances, backgrounds, names, and so on.
+
+
+== See also ==
+Outline of fiction
+
+
+== Notes ==
+
+
+== Citations ==
+
+
+== References ==
+Rafferty, Terrence (4 February 2011). "Reluctant Seer". The New York Times Sunday Book Review. Retrieved 23 April 2012.
+Saricks, Joyce (2009). The Readers' Advisory Guide to Genre Fiction (2nd ed.). ALA Editions. p. 402. ISBN 9780838909898.
+
+
+== Further reading ==
+Eco, Umberto (15 July 2017). "On the ontology of fictional characters: A semiotic approach". Sign Systems Studies. 37 (1/2): 82–98. doi:10.12697/SSS.2009.37.1-2.04.
+
+
+== External links ==
+
+"Kate Colquhoun on the blurred boundaries between fiction and non-fiction", La Clé des Langues, 11 September 2012.
+Example of a Serial Blog/Short Story Magazine Archived 20 January 2015 at the Wayback Machine
