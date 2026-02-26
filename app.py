@@ -1,6 +1,6 @@
 import streamlit as st
 from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain_chroma import Chroma
+from langchain_community.vectorstores import FAISS
 from langchain_groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
@@ -48,9 +48,10 @@ def load_vectordb():
         model_kwargs={'device': 'cpu'}
     )
     
-    vectordb = Chroma(
-        persist_directory="./chroma_db",
-        embedding_function=embeddings
+    vectordb = FAISS.load_local(
+        folder_path="./faiss_index",
+        embeddings=embeddings,
+        allow_dangerous_deserialization=True
     )
     return vectordb
 

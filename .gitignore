@@ -16,3 +16,9 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Virtual Environment
+.venv/
+
+# Dead database
+chroma_db/
